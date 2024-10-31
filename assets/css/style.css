@@ -1,0 +1,15 @@
+.hql-tax-keyword {
+	width: 100%; 
+}
+.qsccp-item {
+	padding-bottom: 10px;
+}
+.qsccp-button-del {
+	background: #f5231e!important;
+    border-color: #ff0000 #E42217 #E42217!important;
+    -webkit-box-shadow: 0 1px 0 #E42217!important;
+    box-shadow: 0 1px 0 #E42217!important;
+    color: #fff!important;
+    text-decoration: none!important;
+    text-shadow: 0 -1px 1px #E42217, 1px 0 1px #E42217, 0 1px 1px #E42217, -1px 0 1px #E42217!important;
+}

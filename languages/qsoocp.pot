@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-23 01:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: inc/config.php:67
+msgid "Quick Seach"
+msgstr ""
+
+#: inc/settings-page.php:13
+msgid "Settings Admin"
+msgstr ""
+
+#: inc/settings-page.php:14
+msgid "QSOOCP Setting"
+msgstr ""
+
+#: inc/settings-page.php:25
+msgid "Quick Search And Only One Category Posting Settings"
+msgstr ""
+
+#: inc/settings-page.php:53
+msgid "Chose Post Type"
+msgstr ""
+
+#: inc/settings-page.php:95
+msgid "Select Post Type"
+msgstr ""
+
+#: inc/settings-page.php:102
+msgid "Select Taxonomy"
+msgstr ""
+
+#: inc/settings-page.php:109
+msgid "Change Checkbox to Radio Button"
+msgstr ""
+
+#: inc/settings-page.php:111
+msgid "Enable"
+msgstr ""
+
+#: inc/settings-page.php:112
+msgid "Disable"
+msgstr ""
+
+#: inc/settings-page.php:115
+msgid "Delete"
+msgstr ""
+
+#: inc/settings-page.php:119
+msgid "Add"
+msgstr ""
+
+#. Name of the plugin
+msgid "Quick Search And Only One Category Posting"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Quick Search And Only One Category Posting support quickly selecting "
+"category via search box when there are many categories. Besides, you can use "
+"radio button instead of checkbox when you want clients to choose 1 category "
+"only. Quick Search And Only One Category Posting supports all custom post "
+"types and custom taxonomy activated in theme and plugin."
+msgstr ""
+
+#. Author of the plugin
+msgid "Hoang Quoc Long"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://hoangquoclong.com"
+msgstr ""
